@@ -34,7 +34,7 @@ PT = Projeto criado na Maratona Explorer da Rocketseat ele tem como objetivo res
 ## Usage
 To use this project, go to the link:
 
-[Link Project](https://igorsilvamedeiros.github.io/found_its_destiny/)
+<a href="https://igorsilvamedeiros.github.io/found_its_destiny/" target="_blank">Link Project</a>
 
 ## Contact
 <img align="left" src="https://avatars.githubusercontent.com/IgorSilvaMedeiros?size=100">

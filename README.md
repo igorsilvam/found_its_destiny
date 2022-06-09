@@ -21,6 +21,8 @@
 	<a href="#contact">Contact</a> 
 </p>
 
+<img src="img/img.png" alt="front cover">
+
 ## About
 EN = Project created in the Rocketseat Explorer Marathon it aims to answer your questions, the clearer your question the clearer your answer will be like a crystal ball.
 

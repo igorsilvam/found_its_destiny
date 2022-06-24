@@ -65,3 +65,14 @@ button {
 button:hover {
   filter: brightness(1.2);
 }
+
+#resultQuestion {
+  margin-top: 3rem;
+  transition: opacity 1s;
+}
+
+#resultQuestion div {
+  margin-bottom: 1rem;
+  font-weight: normal;
+  opacity: 0.9;
+}
